@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/wbg-react-app/static/css/main.bd04a2c4.chunk.css",
+    "main.js": "/wbg-react-app/static/js/main.4df773dd.chunk.js",
+    "main.js.map": "/wbg-react-app/static/js/main.4df773dd.chunk.js.map",
+    "runtime-main.js": "/wbg-react-app/static/js/runtime-main.f40ce763.js",
+    "runtime-main.js.map": "/wbg-react-app/static/js/runtime-main.f40ce763.js.map",
+    "static/css/2.11829350.chunk.css": "/wbg-react-app/static/css/2.11829350.chunk.css",
+    "static/js/2.9f9704a4.chunk.js": "/wbg-react-app/static/js/2.9f9704a4.chunk.js",
+    "static/js/2.9f9704a4.chunk.js.map": "/wbg-react-app/static/js/2.9f9704a4.chunk.js.map",
+    "index.html": "/wbg-react-app/index.html",
+    "precache-manifest.78aa967037c900ee9152216e080e090a.js": "/wbg-react-app/precache-manifest.78aa967037c900ee9152216e080e090a.js",
+    "service-worker.js": "/wbg-react-app/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/wbg-react-app/static/css/2.11829350.chunk.css.map",
+    "static/css/main.bd04a2c4.chunk.css.map": "/wbg-react-app/static/css/main.bd04a2c4.chunk.css.map",
+    "static/js/2.9f9704a4.chunk.js.LICENSE.txt": "/wbg-react-app/static/js/2.9f9704a4.chunk.js.LICENSE.txt",
+    "static/media/1.jpeg": "/wbg-react-app/static/media/1.43580063.jpeg",
+    "static/media/2.jpeg": "/wbg-react-app/static/media/2.2afc9668.jpeg",
+    "static/media/3.jpeg": "/wbg-react-app/static/media/3.e196b95a.jpeg",
+    "static/media/4.jpeg": "/wbg-react-app/static/media/4.1b2e84ba.jpeg",
+    "static/media/5.jpeg": "/wbg-react-app/static/media/5.617b40be.jpeg",
+    "static/media/6.jpeg": "/wbg-react-app/static/media/6.af431837.jpeg",
+    "static/media/aizat.jpg": "/wbg-react-app/static/media/aizat.e3941088.jpg",
+    "static/media/gulasel.jpg": "/wbg-react-app/static/media/gulasel.c9782fac.jpg",
+    "static/media/kg-math.jpg": "/wbg-react-app/static/media/kg-math.d6208883.jpg",
+    "static/media/logo3.png": "/wbg-react-app/static/media/logo3.118a7765.png",
+    "static/media/ru-bio.jpg": "/wbg-react-app/static/media/ru-bio.d9e974c5.jpg",
+    "static/media/ru-lang.jpg": "/wbg-react-app/static/media/ru-lang.a0192259.jpg",
+    "static/media/sb-osn.jpg": "/wbg-react-app/static/media/sb-osn.b2e25786.jpg",
+    "static/media/sb-pred.jpg": "/wbg-react-app/static/media/sb-pred.7e5bbd58.jpg",
+    "static/media/shirin.png": "/wbg-react-app/static/media/shirin.a8e6ccd6.png",
+    "static/media/zhamilia.jpg": "/wbg-react-app/static/media/zhamilia.0099a4d3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f40ce763.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.9f9704a4.chunk.js",
+    "static/css/main.bd04a2c4.chunk.css",
+    "static/js/main.4df773dd.chunk.js"
+  ]
+}
